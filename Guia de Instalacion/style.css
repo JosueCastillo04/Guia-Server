@@ -1,0 +1,25 @@
+#cardTitle{
+    
+    background: #2196f3;
+}
+#fondo{
+    background-color: rgb(245, 241, 241);    
+}
+#divider{
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 2px;
+    background-color: silver;
+}
+#cardgeneral{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#img{
+    width: 450px;
+    height: 350px;
+    border: solid silver 2px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
